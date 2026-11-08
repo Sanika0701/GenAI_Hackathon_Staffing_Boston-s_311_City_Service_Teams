@@ -1,0 +1,11 @@
+openai>=1.40
+langchain-openai
+langchain-core
+pydantic>=2
+pandas
+numpy
+matplotlib
+scikit-learn
+scipy
+pyarrow
+gradio  # optional, only for the demo chat UI
